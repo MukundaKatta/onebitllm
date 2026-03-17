@@ -16,4 +16,4 @@ pip install -e .
 - **Convert** — convert module
 
 ## License
-MIT
+© 2026 Officethree Technologies. All Rights Reserved.
